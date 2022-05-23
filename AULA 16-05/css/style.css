@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgba(59, 112, 79, 0.795);
+  color: darkblue;
+}
+h1 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 40px;
+  color: blue;
+}
+h2 {
+  font-size: 20px;
+}
+
+.job-title {
+  font-size: 20px;
+  background-color: rgb(11, 236, 78);
+  color: rgb(27, 7, 82);
+  font-weight: bold;
+  padding: 5px 10px 5px 10px;
+}
+#high {
+  color: blueviolet;
+}
+ul {
+  padding: 10px;
+  background-color: rgb(28, 155, 11);
+  color: rgb(59, 69, 155);
+}

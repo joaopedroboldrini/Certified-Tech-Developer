@@ -1,0 +1,23 @@
+h1 {
+  color: blueviolet;
+  background-color: darkgreen;
+}
+h2 {
+  color: blue;
+  background-color: darkcyan;
+}
+
+p {
+  background-color: cyan;
+}
+
+section {
+  background-color: aquamarine;
+}
+article {
+  background-color: cyan;
+}
+body {
+  background-color: aquamarine;
+}
+

@@ -1,0 +1,2 @@
+Hardware (hard/duro) é tudo que faz parte do computador de forma física, palpável, peças no mundo físico.
+Software (soft/macio) são os programas não palpaveis, tudo que você utiliza, instala e seu computador processa, que você apenas visualiza pelo monitor.

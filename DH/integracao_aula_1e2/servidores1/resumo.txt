@@ -1,0 +1,1 @@
+Servidores é onde fica armazenado o banco de dados, necessários para utilização das aplicações.

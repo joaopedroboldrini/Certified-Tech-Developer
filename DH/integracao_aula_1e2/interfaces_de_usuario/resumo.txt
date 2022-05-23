@@ -1,0 +1,1 @@
+É a parte que o usuário interage com software para utilizar, o que o front-end faz para o usuário mexer.
